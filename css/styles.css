@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 5px;
+
+}
+
+li{
+    display: inline;
+    margin: 20px;
+    font-size: large;
+}
+
+li a {
+    color: cornflowerblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+img {
+    width: 300px;
+    border: 3px solid black;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+img:hover {
+    background-color: cornflowerblue;
+}
